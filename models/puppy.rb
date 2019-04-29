@@ -1,6 +1,8 @@
 class Puppy
   
   def initialize(:name, :breed, :months_old)
-  
-end
+    @name = :name
+    @breed = :breed
+    @months_old = :month_old
+  end 
 end
